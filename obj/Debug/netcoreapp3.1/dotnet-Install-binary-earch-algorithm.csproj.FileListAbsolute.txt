@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.exe
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.deps.json
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.dll
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\bin\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.pdb
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\obj\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\obj\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\obj\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\obj\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.dll
+D:\CodeGym\Practice\dotnet-Install-binary-earch-algorithm\obj\Debug\netcoreapp3.1\dotnet-Install-binary-earch-algorithm.pdb
